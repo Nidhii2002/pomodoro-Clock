@@ -1,0 +1,22 @@
+.tmain {
+  text-align: center;
+}
+
+.time {
+  text-align: center;
+  margin: 0% 30% 0% 40%;
+  height: 15rem;
+  width: 20rem;
+  border: 0.42rem solid red;
+  border-radius: 30%;
+}
+
+.ss {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.tt {
+  font-size: 5rem;
+  font-weight: 700;
+}
